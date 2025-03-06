@@ -6,7 +6,7 @@
 > 
 > cd Hack-IG
 > 
-> chmod +x Hack.sh
+> chmod +x hack.sh
 > 
-> bash Hack.sh
+> bash hack.sh
 > 
